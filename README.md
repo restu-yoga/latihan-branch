@@ -1,2 +1,2 @@
 # latihan-branch
-Membuat branch baru agar dapat terpisah dari main production
+Ini adalah repository untuk latihan membuat branch baru di GitHub.
